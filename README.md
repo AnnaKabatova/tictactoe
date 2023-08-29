@@ -16,15 +16,15 @@ The game uses search algorithms to calculate the best possible move for the AI, 
 
 Clone the repository to your local machine:
 
-\`\`\`bash
+```bash
 git clone https://github.com/AnnaKabatova/tictactoe.git
-\`\`\`
+```
 
 Navigate to the project directory:
 
-\`\`\`bash
+```bash
 cd tictactoe
-\`\`\`
+```
 
 Install requirements:
 ```bash
