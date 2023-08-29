@@ -1,4 +1,5 @@
 # Tic-Tac-Toe AI
+![game](https://github.com/AnnaKabatova/tictactoe/assets/80786573/d1983f18-fa97-4649-8b01-129f9a3e69c1)
 
 ## Overview
 
@@ -35,9 +36,9 @@ pip install -r requirements.txt
 
 To play the game, simply run the following command:
 
-\`\`\`bash
+```bash
 python runner.py
-\`\`\`
+```
 
 This will start the game, and you'll be prompted to make your move. The AI will make its move automatically after you.
 
